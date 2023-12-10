@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Basanth
 
-- 🔭 I’m currently working as an Operations Engineer
+- 🔭 I’m currently working as a Data Analyst
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on ML & DS projects
 - 🤔 I’m looking for help with Deep Learning
