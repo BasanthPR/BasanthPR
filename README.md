@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 
-- 🔭 **AI Engineer (GRA)** at **SJSU Research Foundation** — building real-time ML systems (Jan 2025–Present)
+- 🔭 **AI Engineer (GRA)** at **SJSU Research Foundation** — building real-time AIML systems (Jan 2025–Present)
 - 🚀 Former **Research Intern, NASA Ames Research Center** (Summer 2025)
 - 🎓 **MS, Applied Data Science & Intelligence** — San Jose State University (2024–2026)
 - 🏢 Previously: **Data Science @ AtkinsRealis** · **Engineer @ 6D Technologies**
