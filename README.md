@@ -19,11 +19,11 @@
 
 ### 🧭 About Me
 
-- 🔭 **Machine Learning Engineer (GRA)** at **SJSU Research Foundation** — building real-time ML systems (Jan 2025–Present)
+- 🔭 **AI Engineer (GRA)** at **SJSU Research Foundation** — building real-time ML systems (Jan 2025–Present)
 - 🚀 Former **Research Intern, NASA Ames Research Center** (Summer 2025)
 - 🎓 **MS, Applied Data Science & Intelligence** — San Jose State University (2024–2026)
-- 🏢 Previously: **Data Scientist/Data Engineer @ AtkinsRealis** · **Software Engineer @ 6D Technologies**
-- 📄 Published researcher — *"A Big Data Pipeline for Real-Time Pandemic Hospitalization Risk"*, **Algorithms** journal (MDPI)
+- 🏢 Previously: **Data Science @ AtkinsRealis** · **Engineer @ 6D Technologies**
+- 📄 Published researcher — *"A Big Data Pipeline for Real-Time Pandemic Hospitalization Risk"*, **Algorithms** journal (MDPI) — 4 co-authored papers published, 5th in progress
 - 🌱 Currently deep in **GenAI agents, RAG systems, and production MLOps** at scale
 - 📍 San Jose, CA · 📫 **basanthpr11@gmail.com**
 
