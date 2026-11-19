@@ -1,94 +1,77 @@
-<div align="center">
+<img src="./banner.svg" alt="Basanth Periyapatna Roopa Kumar — AI engineering and data science, San Jose" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=210&section=header&text=Basanth%20P%20R&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Data%20%7C%20SWE%20%7C%20ML&descAlignY=52&descSize=18" width="100%"/>
+I build machine learning systems and then measure whether they actually work. Right now that means
+wildfire risk assessment from aerial imagery at **SJSU Research Foundation**, where I am a Graduate
+Research Assistant. Before that, a research internship at **NASA Ames Research Center** on the
+FireSage program, and two years of production data and backend engineering in industry.
 
-<a href="https://linkedin.com/in/basanth-p-r/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=39D0D6&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer+(GRA)+%40+SJSU+Research+Foundation;Ex-Research+Intern+%40+NASA+Ames+Research+Center;Published+Researcher+%E2%80%94+Algorithms+Journal+(MDPI);Building+real-time+ML%2C+GenAI+%26+data+pipelines+that+ship" alt="Typing SVG" />
-</a>
+**[basanthyajman.com](https://basanthyajman.com)** is the full portfolio — case studies, research
+write-ups, and the reasoning behind each decision.
 
-<br/>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/basanth-p-r/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:basanthpr11@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BasanthPR)
+## Selected work
 
-</div>
+| | What it is | Evidence |
+|---|---|---|
+| **Cognivi** | Multimodal stroke screening prototype built at TreeHacks 2026. I designed the service architecture, video ingestion, and the evidence-grounded inference flow. | [Case study](https://basanthyajman.com/case-study/cognivi) · [Devpost](https://devpost.com/software/cognivi-quick-accurate-stroke-detection-under-10) |
+| **Professor in a Box** | Graduate capstone. CS tutoring with adapted language models, document retrieval, streaming responses, and provider fallback. | [Write-up](https://basanthyajman.com/publication/personalized-education-agent) · [Code](https://github.com/BasanthPR/DATA-298-Team-2-Personalized-Education-Agent) |
+| **FireSense** | Wildfire segmentation from multispectral satellite imagery: channel attention, uncertain boundaries, and calibrated probabilities. | [Write-up](https://basanthyajman.com/publication/firesense-fire-detection) · [Code](https://github.com/BasanthPR/FireSense-Multispectral-Fire-Detection-with-Channel-Attention-and-Probabilistic-Calibration) |
+| **F1 Prediction Engine** | A triple-model ensemble (XGBoost, Monte Carlo, Bayesian inference) forecasting the 2026 season. Each race is its own repo, and V2 documents the three V1 failures it corrects. | [Case study](https://basanthyajman.com/case-study/f1-predictor) · [Australia](https://github.com/BasanthPR/2026-australian-gp-prediction) · [China](https://github.com/BasanthPR/2026-chinese-gp-prediction) · [Japan](https://github.com/BasanthPR/2026-japanese-gp-prediction) |
 
-<br/>
+<br>
 
-### 🧭 About Me
+## Research
 
-- 🔭 **AI Engineer (GRA)** at **SJSU Research Foundation** — building real-time AIML systems (Jan 2025–Present)
-- 🚀 Former **Research Intern, NASA Ames Research Center** (Summer 2025)
-- 🎓 **MS, Applied Data Science & Intelligence** — San Jose State University (2024–2026)
-- 🏢 Previously: **Data Science @ AtkinsRealis** · **Engineer @ 6D Technologies**
-- 📄 Published researcher — *"A Big Data Pipeline for Real-Time Pandemic Hospitalization Risk"*, **Algorithms** journal (MDPI) — 4 co-authored papers published, 5th in progress
-- 🌱 Currently deep in **GenAI agents, RAG systems, and production MLOps** at scale
-- 📍 San Jose, CA · 📫 **basanthpr11@gmail.com**
+One peer-reviewed journal publication, and four graduate research projects written up in full.
 
-<br/>
+| Paper | Venue | Status |
+|---|---|---|
+| A Big Data Pipeline Approach for Predicting Real-Time Pandemic Hospitalization Risk | *Algorithms* (MDPI), 2025 | Peer-reviewed · [10.3390/a18120730](https://doi.org/10.3390/a18120730) |
+| Professor in a Box: Personalized CS Tutoring via Fine-Tuned Models | SJSU · DATA 298B capstone, 2026 | [Write-up](https://basanthyajman.com/publication/personalized-education-agent) |
+| FireSense: Multispectral Fire Detection with Channel Attention | SJSU · DATA 255, 2025 | [Write-up](https://basanthyajman.com/publication/firesense-fire-detection) |
+| A Multimodal Generative AI Framework for Cancer Pathology Classification | SJSU · Applied Data Science, 2025 | [Write-up](https://basanthyajman.com/publication/multimodal-cancer-pathology) |
+| Knowledge Graph-Enhanced Traffic Optimization | SJSU · DATA 266, 2025 | [Write-up](https://basanthyajman.com/publication/knowledge-graph-traffic) |
 
-### 🛠️ Tech Stack
+<br>
 
-<div align="center">
+## Experience
 
-**Languages & Core**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,r,js,ts,cpp,bash&theme=dark" />
+| | Role | When |
+|---|---|---|
+| **SJSU Research Foundation** | Graduate Research Assistant — AI & Wildfire Science | Jan 2025 – present |
+| **NASA Ames Research Center** | Research Scientist Intern, FireSage Program | Jun 2025 – Aug 2025 |
+| **AtkinsRéalis** | Data & Software Engineer | Apr 2023 – Jun 2024 |
+| **6D Technologies** | Backend / Data Operations Engineer | Sep 2021 – Sep 2022 |
 
-<br/><br/>
+M.S. Applied Data Science, San Jose State University.
 
-**Machine Learning & AI**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-<br/>
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?style=flat-square&logoColor=white)
+<br>
 
-<br/><br/>
+## What I work with
 
-**Data Engineering & Big Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=kafka&theme=dark" />
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat-square&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+Grouped by where I have actually used it, rather than by what fills out a list.
 
-<br/><br/>
+**LLM and AI systems** — retrieval-augmented generation, fine-tuning adapters, knowledge graphs for
+grounding, multi-model benchmarking, vision-language models.
+*Used in:* Professor in a Box, Cognivi, the wildfire compliance work.
 
-**Cloud, MLOps & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,git,github,githubactions,gitlab,terraform,grafana&theme=dark" />
+**Machine learning and statistics** — PyTorch, XGBoost, Monte Carlo simulation, Bayesian inference,
+probability calibration, channel attention.
+*Used in:* FireSense, the F1 engine, the pandemic risk paper.
 
-<br/><br/>
+**Data and platform** — Python, SQL, Apache Kafka, Apache Spark, PostgreSQL, Azure, AWS, Docker.
+*Used in:* the pandemic streaming pipeline, AtkinsRéalis, 6D Technologies.
 
-**Databases & Storage**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+**Vision and geospatial** — segmentation, object detection, multispectral and UAV imagery,
+parcel-level geospatial joins.
+*Used in:* FireSense, the NASA Ames FireSage work.
 
-<br/><br/>
+<br>
 
-**Web & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask&theme=dark" />
+## Elsewhere
 
-</div>
+[Portfolio](https://basanthyajman.com) · [Writing](https://basanthyajman.com/writing) ·
+[LinkedIn](https://www.linkedin.com/in/basanth-p-r/) · [Email](mailto:basanthpr11@gmail.com)
 
-<br/>
-
-<div align="center">
-
-*"In God we trust. All others must bring data."* — W. Edwards Deming
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
-
-</div>
+<sub>The portfolio is the source of truth for everything here. If the two ever disagree, trust the site.</sub>
