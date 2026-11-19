@@ -3,7 +3,7 @@
 I build machine learning systems and then measure whether they actually work. Right now that means
 wildfire risk assessment from aerial imagery at **SJSU Research Foundation**, where I am a Graduate
 Research Assistant. Before that, a research internship at **NASA Ames Research Center** on the
-FireSage program, and two years of production data and backend engineering in industry.
+FireSage program, and three years of production data and backend engineering in industry.
 
 **[basanthyajman.com](https://basanthyajman.com)** is the full portfolio — case studies, research
 write-ups, and the reasoning behind each decision.
