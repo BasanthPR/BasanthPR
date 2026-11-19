@@ -74,18 +74,18 @@ M.S. Applied Data Science, San Jose State University. Three years of industry en
 
 Grouped by where each was applied in production or research, rather than by what fills out a list.
 
-**LLM and AI systems**, retrieval-augmented generation, fine-tuning adapters, knowledge graphs for
+**LLM and AI systems**: retrieval-augmented generation, fine-tuning adapters, knowledge graphs for
 grounding, multi-model benchmarking, vision-language models.
 *Used in:* Professor in a Box, Cognivi, the wildfire compliance work.
 
-**Machine learning and statistics**, PyTorch, XGBoost, Monte Carlo simulation, Bayesian inference,
+**Machine learning and statistics**: PyTorch, XGBoost, Monte Carlo simulation, Bayesian inference,
 probability calibration, channel attention.
 *Used in:* FireSense, the F1 engine, the pandemic risk paper.
 
-**Data and platform**, Python, SQL, Apache Kafka, Apache Spark, PostgreSQL, Azure, AWS, Docker.
+**Data and platform**: Python, SQL, Apache Kafka, Apache Spark, PostgreSQL, Azure, AWS, Docker.
 *Used in:* the pandemic streaming pipeline, AtkinsRéalis, 6D Technologies.
 
-**Vision and geospatial**, segmentation, object detection, multispectral and UAV imagery,
+**Vision and geospatial**: segmentation, object detection, multispectral and UAV imagery,
 parcel-level geospatial joins.
 *Used in:* FireSense, the NASA Ames FireSage work.
 
