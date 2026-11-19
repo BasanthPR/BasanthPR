@@ -7,6 +7,22 @@ FireSage program, and three years of production data and backend engineering in 
 
 **[basanthyajman.com](https://basanthyajman.com)** is the full portfolio — case studies, research
 write-ups, and the reasoning behind each decision.
+[Resume](https://basanthyajman.com/resume) ·
+[Career map](https://basanthyajman.com/map) ·
+[Root-cause notes](https://basanthyajman.com/writing)
+
+<br>
+
+## Root-cause notes
+
+The part of the work that interviews actually probe: something broke, here is how I found out why,
+and here is the measurement proving the fix held.
+
+| Note | Before | After |
+|---|---|---|
+| [A wildfire model that was confident and wrong](https://basanthyajman.com/blog/rca-firesense-overconfident-probabilities) | Expected Calibration Error 0.19 | **0.026**, mean IoU unchanged |
+| [Why my F1 model gave Hamilton 2.5%](https://basanthyajman.com/blog/rca-f1-hamilton-underrated) | ~2.5% win probability from P3 | **21.2%** [11.8%, 24.1%], finished P3 |
+| [Video ingestion before inference](https://basanthyajman.com/blog/cognivi-video-ingestion-system-design) | Intermittent WebM decode failures | Every upload normalised before inference |
 
 <br>
 
